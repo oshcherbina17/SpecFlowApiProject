@@ -1,0 +1,15 @@
+{
+    "bindingCulture": {
+      "name": "en-us"
+    },
+    "language": {
+      "feature": "en"
+    },
+    "plugins": [
+      {
+        "name": "SpecFlow.Plus.LivingDocPlugin",
+        "type": "Runtime"
+      }
+    ]
+  }
+  

@@ -1,0 +1,5 @@
+*.feature.cs
+/obj
+/bin
+
+.DS_Store
